@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQFDOArtsmWwTw/profile-displaybackgroundimage-shrink_200_800/0/1655424300206?e=2147483647&v=beta&t=CRhlXKqF38pLLqXXszj-_afQ5M-SP61RDEj7ZkCs-lg)]
 <h1 align="center">Hi 👋, I'm Ali Atieh</h1>
 <h3 align="center">I am a Computer Science student who has a strong interest in Cybersecurity, focusing on Network and Computer Security. My curiosity about digital security and dedication to enhancing online safety have guided my journey in this field. Being a firm believer in hands-on learning, I have actively engaged in diverse projects and tasks to improve my abilities in spotting weaknesses, enforcing security protocols, and examining networks to deter cyber risks. I'm always investigating the most recent advancements and technologies in cybersecurity to remain ahead of the game.</h3>
 
