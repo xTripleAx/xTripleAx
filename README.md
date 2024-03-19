@@ -4,8 +4,6 @@
 
 <img align="right" alt="Safety" width="400" src="https://influence.digital/wp-content/uploads/2023/08/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtripleax&label=Profile%20views&color=0e75b6&style=flat" alt="xtripleax" /> </p>
-
 <p align="left"> <a href="https://twitter.com/xxtripleax" target="blank"><img src="https://img.shields.io/twitter/follow/xxtripleax?logo=twitter&style=for-the-badge" alt="xxtripleax" /></a> </p>
 
 - 💬 Ask me about **Operating Systems, Cryptography, Web Application Security, Network Security, Ethical Hacking and Penetration Testing, Cloud Security, Vulnerability Assessment, Risk Analysis, Emerging Technologies in Cybersecurity**
